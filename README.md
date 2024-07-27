@@ -25,9 +25,9 @@ The report has Multiple Sections from where you can manage the Data, such as:
 
 - I also included a Donut Chart to show how much Quantity of Product is ordered in which Category.
 
-- Then I included a Horizontal Bar Chart to show Top 4 Performing State in sales.
+- Then I included a Horizontal Bar Chart to show Top 5 Performing State in sales.
 
-- And Lastly, I included a Bar Chart to show the Top 4 Customers of our Store.
+- And Lastly, I included a Bar Chart to show the Top 5 Customers of our Store.
 
 - I have also included a Reset Button at the Top to clear all Slicers.
 
